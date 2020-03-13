@@ -16,7 +16,8 @@
 	* A-16: [архив](https://github.com/Ludeon/RimWorld-ru/archive/alpha-16.zip), [Git-репозиторий](https://github.com/Ludeon/RimWorld-ru/tree/alpha-16)
 	* A-15: [архив](https://github.com/Ludeon/RimWorld-ru/archive/alpha-15.zip), [Git-репозиторий](https://github.com/Ludeon/RimWorld-ru/tree/alpha-15)
 2. **(Для версии 1.1)** Подменить папки локализации папками из архива:
-	В папку `<путь к папке игры>\Data\Core\Languages\` нужно положить папку `Core` из архива и переименовать её в `Russian`.asd
+	
+	В папку `<путь к папке игры>\Data\Core\Languages\` нужно положить папку `Core` из архива и переименовать её в `Russian`.
 
 	В папку `<путь к папке игры>\Data\Royalty\Languages\` нужно положить папку `Royalty` из архива и переименовать её в `Russian`.
 
